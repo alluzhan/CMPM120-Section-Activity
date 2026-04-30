@@ -7,7 +7,7 @@ Metal Gear Rising Revengeance
 Overwatch
 
 ## How to build
-Collab
+Work to together
 
 ## How to run
 By not walking
