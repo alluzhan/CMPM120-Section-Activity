@@ -1,5 +1,6 @@
 ## About this project
 Working on it for section
+The time is 6:22.
 
 ## Our favorite games
 Minecraft
