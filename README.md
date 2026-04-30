@@ -3,7 +3,7 @@ Working on it for section
 
 ## Our favorite games
 Minecraft
-Overwatch
+Sims4
 
 ## How to build
 Collab
