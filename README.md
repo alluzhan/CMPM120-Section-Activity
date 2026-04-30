@@ -6,3 +6,6 @@ Minecraft
 
 ## How to build
 Collab
+
+## How to run
+By not walking
